@@ -1,1 +1,3 @@
-*.rb linguist-language=Cpp
+*.rb linguist-language=cpp
+Crawler/Crawler/htmlcxx-0.86/* linguist-vendored
+htmlcxx-0.86 linguist-vendored=true
